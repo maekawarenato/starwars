@@ -1,0 +1,5 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: ame
+      port: 9042
